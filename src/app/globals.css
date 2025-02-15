@@ -19,3 +19,16 @@ body {
   background: var(--background);
   font-family: Arial, Helvetica, sans-serif;
 }
+
+@media (min-width: 768px) {
+  img {
+    width: 50%; /* Ukuran lebih kecil di layar tablet/desktop */
+  }
+}
+
+@media (min-width: 1024px) {
+  .pageContainer {
+    padding: 60px;
+    min-height: 400px;
+  }
+}
