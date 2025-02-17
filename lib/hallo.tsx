@@ -11,12 +11,20 @@ const Caption = () => {
         <Text fontWeight={"bold"} color={"gray.400"}>IDN LAW FIRM</Text>
       </Box>
       
-      <Box height="40vh" >
+      <Box >
         <Text fontSize="5vw" fontWeight={"bold"}>
-            Guiding You <br /> Through <Text as="span" color="#b04446">Tax</Text><br /> Complexity
+            Melayani 
+        </Text>
+
+        <Text fontSize="5vw" fontWeight={"bold"}>
+          <Text as="span" color="#b04446">Masyarakat</Text>
+        </Text>
+
+        <Text fontSize="5vw" fontWeight={"bold"}>
+         Tanpa Henti
         </Text>
       </Box>
-
+ 
       <Box height="10">
         <Text color={"gray.500"} fontSize={"1vw"}>
         IDN Law Firm merupakan firma hukum yang didirikan oleh pendiri-pendiri yang memiliki pemahaman hukum mumpuni dan sebagai praktisi hukum yang ahli dalam bidangnya. Dengan tim advokat berpengalaman dan berdedikasi, kami pastikan semua perkara anda di seluruh 
